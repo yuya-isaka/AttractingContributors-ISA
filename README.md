@@ -15,16 +15,14 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Attracting favorite Streamer
-あなたの好きな動画配信者を教えてください.</br>
-どんなジャンルでも結構です.</br>
-URLもどうぞ！
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of Streamer 
-- 文野環 https://www.youtube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg
-- Hikakin mania
-- Montana Black
-- SugarZ3ro
-- つきのみと
-- 小倉唯
-- vodka https://www.twitch.tv/vodkavdk
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Cooking
+1. curry
+・cupnoodle
+1. sushi</br>
+Banana crepe</br>
+1. Fried egg
