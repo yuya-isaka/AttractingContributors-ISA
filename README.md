@@ -38,3 +38,4 @@ By the way, I love RISC-V.
 - SPARC
 - VAX
 - 68000
+- SuperH
